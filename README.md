@@ -82,18 +82,6 @@ python -m http.server 8000
 # Python 2
 python -m SimpleHTTPServer 8000
 ```
-
-## 📸 Screenshots
-
-### Desktop View
-![Desktop Screenshot](https://via.placeholder.com/800x500/000000/FFFFFF?text=Desktop+View)
-
-### Mobile View
-![Mobile Screenshot](https://via.placeholder.com/300x600/000000/FFFFFF?text=Mobile+View)
-
-### Tablet View
-![Tablet Screenshot](https://via.placeholder.com/600x400/000000/FFFFFF?text=Tablet+View)
-
 ## 🎯 Key Components
 
 ### 🏠 **Hero Section**
